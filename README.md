@@ -1,3 +1,7 @@
+# Fork
+
+This is a .netStandard 2.0 port of Syn.Speech
+
 # Syn.Speech
 
 Syn Speech is a flexible speaker independent continuous speech recognition engine for Mono and .NET framework. This project was initially created by [Leslie Timmy](http://leslietimmy.com) (the lead AI researcher at Synthetic Intelligence Network) as a side project for Digital Assistant interface in Linux environment.
@@ -6,7 +10,8 @@ The project contains code ported from the Java based CMU Sphinx repository [Sphi
 
 ## NuGet
 
->PM> Install-Package Syn.Speech
+~~>PM> Install-Package Syn.Speech~~
+This is a fork currently without Nuget avaliable
 
 ## Repository
 
